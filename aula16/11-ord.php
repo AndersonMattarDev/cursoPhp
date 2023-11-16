@@ -8,7 +8,7 @@
 <body>
 <div>
     <?php
-        $letra = "D";
+        $letra = "a";
         $cod = ord($letra);
         print ("A $letra tem o código $cod");
     ?>
