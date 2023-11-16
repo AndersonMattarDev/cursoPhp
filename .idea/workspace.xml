@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4ea4958-e84c-4bcd-834b-64f105a200ec" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WOIxRTfi4fktmrfDGrxBYFWNYR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files (x86)/EasyPHP-Devserver-17/eds-www/aula16&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\aula16" />
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\aula15" />
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\aula14" />
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\aula13" />
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\aulaPHP" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\aula13" />
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\aula09" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4ea4958-e84c-4bcd-834b-64f105a200ec" name="Changes" comment="" />
+      <created>1696597447012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696597447012</updated>
+      <workItem from="1696597448031" duration="3146000" />
+      <workItem from="1696857633255" duration="8130000" />
+      <workItem from="1697039677987" duration="5643000" />
+      <workItem from="1697733496207" duration="2232000" />
+      <workItem from="1698061125052" duration="13658000" />
+      <workItem from="1698146142759" duration="5557000" />
+      <workItem from="1698233823098" duration="12465000" />
+      <workItem from="1698323877989" duration="3004000" />
+      <workItem from="1698329585339" duration="3397000" />
+      <workItem from="1698406306469" duration="14930000" />
+      <workItem from="1698666550454" duration="7639000" />
+      <workItem from="1698839882125" duration="566000" />
+      <workItem from="1698843522660" duration="13394000" />
+      <workItem from="1699015958600" duration="6643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
