@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="_css/estilo.css"/>
+  <meta charset="UTF-8"/>
+  <title>Curso de PHP - CursoemVideo.com</title>
+</head>
+<body>
+<div>
+    <pre>
+    <?php
+      //chaves personalizadas, podemos associar cada item a uma posição personalizando
+        $v = array( 0=>5,
+                    1=>9,
+                    2=>8,
+                    3=>7);
+        unset($v[0]);
+        print_r($v);
+    ?>
+    </pre>
+   
+</div>
+</body>
+</html>
+ 
