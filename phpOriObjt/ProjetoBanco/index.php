@@ -11,12 +11,17 @@
    require_once 'ContaBanco.php';
    $p1 = new ContaBanco(); //Jubileu
    $p2 = new ContaBanco(); //Creuza3
+   $p3 = new ContaBanco(); //Creosvaldo
    $p1->abrirConta("CC");
    $p1->setNumConta(1111);
    $p1->setDono("Jubileu");
    $p2->abrirConta("CP");
    $p2->setNumConta(2222);
    $p2->setDono("Creuza");
+   $p3->abrirConta("CC");
+   $p3->setNumConta(3333);
+   $p3->setDono("Creosvaldo");
+
 
    $p1->depositar(100);
    $p2->depositar(200);
@@ -33,6 +38,7 @@
 
    print_r($p1);
    print_r($p2);
+   print_r($p3);
     ?>
     </pre>
 </body>
