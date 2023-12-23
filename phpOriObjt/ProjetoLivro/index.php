@@ -15,13 +15,15 @@
     $p[0] = new Pessoa("Anderson", 46, "M");
     $p[1] = new Pessoa("Lidiane", 39, "F");
     $p[2] = new Pessoa("Lucas", 14, "M");
+    $p[3] = new Pessoa("adolfo", 19 ,"M");
     
 
     $l = array();
     $l[0] = new Livro("O pequeno principe", "St Exuppery", 254, $p[0]);
     $l[1] = new Livro("A ilha do Tesouro", "Costa", 564, $p[2]);
     $l[2] = new Livro("PS. Eu te amo", "js. Simpson", 489, $p[1]);
-
+    $l[3] = new Livro("kimgdom hearts 2","shiro amano",219, $p[3]);
+    
     $l[0]->abrir();
     $l[0]->folhear(10);
     $l[0]->avancarPag();
@@ -29,6 +31,12 @@
 
     $l[1]->detalhes();
     $l[2]->detalhes();
+
+    $l[3]->abrir();
+    $l[3]->folhear(90);
+    $l[3]->avancarPag();
+    $l[3]->detalhes();
+
     ?>
     </pre>
     

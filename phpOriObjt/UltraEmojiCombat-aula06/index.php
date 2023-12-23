@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Ultimate Emoje Combate</h1>
+    <h1>Ultimate Emoji Combate</h1>
     <pre>
     <?php
     require_once 'Lutador.php';
@@ -19,11 +19,11 @@
     $l[4] = new Lutador("Ufo Cobol", "Brasil", 27, 1.70, 119.3, 5, 4, 3);
     $l[5] = new Lutador("Nerdaard", "EUA", 30, 1.81, 105.7, 12, 2, 4);
 
-    $UEC01 = new Luta();
-    $UEC01->marcarLuta($l[2], $l[3]);
-    $UEC01->lutar();
-    $l[2]->status();
-    $l[3]->status();
+    $UEC02 = new Luta();
+    $UEC02->marcarLuta($l[0],$l[1]);
+    $UEC02->lutar();
+    $l[0]->status();
+    $l[1]->status();
     ?>
     </pre>
 </body>
