@@ -20,6 +20,13 @@ $l-> emitirSom();
 
 $c = new Cachorro13();
 $c-> emitirSom();
+$c->reagirDono(true);
+$c->reagirDono(false);
+$c->reagirFrase("Olá");
+$c->reagirFrase("Vai Apanhar");
+$c->reagirHora(18, 5);
+$c->reagirIdadePeso(2, 12.5);
+$c->reagirIdadePeso(17, 4.5);
 ?>
 </body>
 </html>
